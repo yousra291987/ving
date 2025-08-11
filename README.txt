@@ -200,3 +200,5 @@ Examples:
   Rscript ving.R -o classic.png -c chr15 -S 210400 -E 224400 WT1.bam -t "wild type rep1" WT2.bam -t "wild type rep2" mut1.bam -t "mutant rep1" mut2.bam -t "mutant rep2" -a saccharomyces_cerevisiae.gff -a cryptics.gff -r gene,XUT,SUT -C blue,salmon,649B88
   Rscript ving.R -v heatmap -o heatmap.png -c chr15 -S 210400 -E 224400 WT1.bam -t "wild type rep1" WT2.bam -t "wild type rep2" mut1.bam -t "mutant rep1" mut2.bam -t "mutant rep2" -l -a saccharomyces_cerevisiae.gff -a cryptics.gff -r gene,XUT,SUT -C blue,salmon,649B88
   Rscript ving.R -v lines -o lines.png -c chr15 -S 210400 -E 224400 WT1.bam -t "wild type rep1" WT2.bam -t "wild type rep2" mut1.bam -t "mutant rep1" mut2.bam -t "mutant rep2" -l -a saccharomyces_cerevisiae.gff -a cryptics.gff -r gene,XUT,SUT -C blue,salmon,649B88 --lines-samples-colors=black,black,green,green --lines-samples-type-line=1,2,1,2
+
+**Publication**: [Read the EpiNet paper here](https://doi.org/10.1186/s13104-015-1404-5)
