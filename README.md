@@ -1,4 +1,5 @@
-![ving Overview](Figure/ving.png)(Figure/ving2.png)
+![ving Overview](Figure/ving.png)
+![ving Overview](Figure/ving2.png)
 
 ## Authors' notes and preface
 --------------------------
